@@ -1,13 +1,14 @@
 ---
-title: "An example journal article"
+title: "Behavior is the ultimate arbiter: An alternative explanation for the inhibitory effect of fluoxetine on the ovulatory homolog model of orgasm in rabbits"
 authors:
-- admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Gonzalo R Quintana
+- Conall E Mac Cionnaith
+- James G Pfaus
+date: "2019-12-01T00:00:00Z"
+doi: "https://doi.org/10.1073/pnas.1917908116"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-12-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,22 +17,24 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "PNAS"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Pavlicev et al.(1) offer an experimental test of the ovulatory homolog model of female orgasm in rabbits. While we appreciate the importance of designing animal models of such elusive phenomena, there are several issues we would like to address.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
-featured: false
+- orgasm
+- animal models
+- sexual reward
+featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: 'https://www.pnas.org/content/pnas/116/51/25382.full.pdf?casa_token=W4tkxXJ2X0EAAAAA:IN91L1N3k1cQqXlEATkQv2o-XJuA-lXTI7o7rspcEjSakp5178gWRxNFb6jv9VrAp8o8TUxgjAu1'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -41,7 +44,7 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
@@ -59,7 +62,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 ---
 
 {{% alert note %}}

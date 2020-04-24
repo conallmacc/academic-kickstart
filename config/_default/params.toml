@@ -106,8 +106,7 @@ office_hours = []
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "Follow Me On Twitter", link = "https://twitter.com/conallmacc"},
-  {icon = "osf", name = "Find my projects on the OSF", link = "https//osf.io/6u52j"},
-  {icon = "github", icon_pack = "fab", name = "Some badly written code", link = "https://github.com/conallmacc"},
+  {icon = "osf", name = "Follow projects on the OSF", link = "https//osf.io/6u52j"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
@@ -116,7 +115,7 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "/themes/academic/assets/images/icon.png"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = "conallmacc"
@@ -207,7 +206,7 @@ plugins_js  = []
   #   0: Disabled
   #   1: Disqus (https://disqus.com)
   #   2: Commento (https://commento.io)
-  engine = 0
+  engine = 1
 
   # Which page types are commentable?
   commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}

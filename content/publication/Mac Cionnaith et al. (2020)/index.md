@@ -13,7 +13,7 @@ date: "2020"
 doi: "https://doi.org/10.1016/j.yhbeh.2019.104612"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-01-01T00:00:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -38,7 +38,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'C:\Hugo\Academic\academic-kickstart\content\publication\Mac Cionnaith et al. (2020)\maccionnaith2020.pdf'
+url_pdf: 'https://github.com/conallmacc/academic-kickstart/blob/master/content/publication/Mac%20Cionnaith%20et%20al.%20(2020)/maccionnaith2020.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
