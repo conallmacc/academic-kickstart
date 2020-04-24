@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Conall Mac Cionnaith</title>
+    <link>http://localhost:1313/post/</link>
+      <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©</copyright><lastBuildDate>Wed, 22 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/img/themes/academic/assets/images/icon.png</url>
+      <title>Posts</title>
+      <link>http://localhost:1313/post/</link>
+    </image>
+    
+    <item>
+      <title>The generalizability crisis goes pandemic.</title>
+      <link>http://localhost:1313/post/generalizability_in_neuro/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/generalizability_in_neuro/</guid>
+      <description>&lt;p&gt;I’ve learned way more about rigorous methodology and good research practices from social psychologists than I have from neuroscientists. And, that&amp;rsquo;s coming from someone who&amp;rsquo;s spent their whole graduate career in a neurobiology department. Why? What are social psychologists doing that we are not?&lt;/p&gt;
+&lt;p&gt;Social psychologists are willing to admit when they have problems. First the replication crisis, fueled by 
+&lt;a href=&#34;https://journals.sagepub.com/doi/full/10.1177/0956797611430953?casa_token=BR6ZgX-7jqAAAAAA%3AjaveqjINQrurLDjUJbIbt9CGwkI_wTD54qG5TBXCmKIpDWzchP3bP1w-f0M93_6USPwP8YXd6M5ZqQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;questionable (even nefarious) research practices&lt;/a&gt; hit them. Textbook effects either disappeared or shriveled away to nothing, once the field rolled out some large scale 
+&lt;a href=&#34;https://science.sciencemag.org/content/349/6251/aac4716?casa_token=Gqed9LzVad8AAAAA:F3YfdI9B5sBhhVx4229xKceAInQtoNwUz7bcs2WBEqrUrGaQQkQCU0IsaZ-Wxaq7i62b_gwkiywEJ4A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;replication projects&lt;/a&gt;. Goodbye 
+&lt;a href=&#34;https://fourbeers.fireside.fm/31&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ego depletion&lt;/a&gt;. Goodbye 
+&lt;a href=&#34;https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0029081&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;priming&lt;/a&gt;. The upshot to finding out effects didn’t replicate is that a large collaborative correction to these textbook effects (or lack thereof) has been made. But, the rewriting of  textbook effects has only made possible by the acknowledgement of the issues facing the field.&lt;/p&gt;
+&lt;p&gt;Not all replications are equal. Sometimes it’s not really that interesting to replicate every miniscule detail of a study. Nor would it be that insightful either. Is there any point in using the same sample size and sample demographics as a previous study? Especially, when the previous sample was underpowered and more homogenized than the milk in your fridge. We expect certain effects to conceptually replicate. The hypotheses we test are typically not overly specific, e.g., we expect to see a Cohen’s d of exactly 0.64 in a sample of white male students recruited from the business school at “insert generic university name” etc. We test less restrictive and more conceptual hypotheses. Both are useful, but it seems to me that a conceptual replication gives more verisimilitude to a theory/hypothesis.&lt;/p&gt;
+&lt;h2&gt;Can’t catch a break.&lt;/h2&gt;
+&lt;p&gt;No one likes having salt and lemon juice rubbed onto their fresh wounds. Unfortunately for social psychology, they seem to get mixed up in crisis after crisis. As the replication crisis becomes cold, the 
+&lt;a href=&#34;https://psyarxiv.com/jqw35&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;generalizability crisis&lt;/a&gt; has just been put on the stove to start heating up. The Yarkoni Generalizability Crisis paper got a metric shit tonne of attention among psychologists on Twitter.&lt;/p&gt;
+&lt;p&gt;It also did the rounds on the big psychology related podcasts - 
+&lt;a href=&#34;https://verybadwizards.fireside.fm/182&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Very Bad Wizards&lt;/a&gt; and 
+&lt;a href=&#34;https://fourbeers.fireside.fm/38&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Two Psychologists Four Beers&lt;/a&gt;. Despite a quick read through the paper, I got absolutely no podcast invitations. I have to admit at this point that some of the points made in the paper go above my head. But let’s distil some (but definitely not all, this is a meaty paper) of the points down because they are important:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Effects should generalize across stimuli. For example, a Stroop effect should be consistent regardless of the font colour used.&lt;/li&gt;
+&lt;li&gt;Experimental designs use a sample of stimuli out of a population of possible stimuli. And, barely anyone has given a shit about this before this paper.&lt;/li&gt;
+&lt;li&gt;Just like we treat subjects/participants as a sample of a large population, we should do the same with stimuli. This means reporting the N of stimuli, and treating stimuli as a random effect, just like we do with participants.&lt;/li&gt;
+&lt;li&gt;Effect sizes shrivel and the intervals grow when stimuli are incorporated as a random effect.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Agree or disagree with the points made in the paper. What I like is that people are wiling to have a productive discussion about these kind of issues in science. See the Twitter thread.&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;I wrote this paper arguing that the inferential statistics we report in psychology papers are so disconnected from the hypotheses they&amp;#39;re meant to test that they may as well be made up. feedback is appreciated.&lt;a href=&#34;https://t.co/BIJ8weUMOl&#34;&gt;https://t.co/BIJ8weUMOl&lt;/a&gt;&lt;/p&gt;&amp;mdash; 🍧🍨🍦Tal Yarkoni 🍦🍨🍧 (@talyarkoni) &lt;a href=&#34;https://twitter.com/talyarkoni/status/1197682895198072835?ref_src=twsrc%5Etfw&#34;&gt;November 22, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;These papers and responses are important metascience discussions for the field. But really there is absolutely &lt;strong&gt;no reason they don’t generalize to neuroscience&lt;/strong&gt;. We want to know what effects are actually true and what aren’t. Our incentives in that regard are completely aligned.&lt;/p&gt;
+&lt;h2&gt;Ringing in the neuropocalypse?&lt;/h2&gt;
+&lt;p&gt;So far neuroscience hasn’t plunged into crisis. Is it because we’re better scientists than psychologists? &lt;strong&gt;No&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Although, some might think so
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Tell us what you really think! &lt;a href=&#34;https://t.co/A5D4SiLI8d&#34;&gt;https://t.co/A5D4SiLI8d&lt;/a&gt;&lt;/p&gt;&amp;mdash; Michael Inzlicht (@minzlicht) &lt;a href=&#34;https://twitter.com/minzlicht/status/1244961169489768449?ref_src=twsrc%5Etfw&#34;&gt;March 31, 2020&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;/p&gt;
+&lt;p&gt;Is it because our effects are more “real” because they are “in the brain” (whatever on earth this kind of vacuous statement means)? &lt;strong&gt;Absolutely not&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;There’s no reason to belief that questionable research practices and p-hacking are less frequent in neuroscience than psychology. There’s also no reason to believe our experimental design is stronger in neuroscience than in psychology. We might use cooler methods like lasers, drugs, and viruses. But we are prone to the exact same errors as other fields. We’re just as good at running 
+&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/23571845&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;underpowered studies&lt;/a&gt; as anyone else.&lt;/p&gt;
+&lt;p&gt;Part of the answer seems simple:
+&lt;strong&gt;You can’t find things if you don’t look&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Neuroscience, especially animal research, is expensive. No one is paying out big grants to run large scale replication projects. Whether they do or do not replicate is an empirical question. But considering the incentive structures in neuroscience and psychology have been very similar over time (i.e., positive publication bias, lack of interest in publishing replications, disinterest in publishing the negative replication of an important effect), I don’t see why we would be in a different boat to social psychology.&lt;/p&gt;
+&lt;p&gt;I think it is more common than we are willing to publicly admit that highly-cited effects do not replicate. Walking around poster sessions, I&amp;rsquo;ve heard it mentioned that certain effects only replicate for certain labs. But, we never officially hear about the non-replications, just background whispers at conferences. How much resources should a lab piss away chasing the mirage of replicating X lab&amp;rsquo;s effect, when everyone who&amp;rsquo;s tried has never gotten it to work?&lt;/p&gt;
+&lt;h2&gt;Should we declare a crisis?&lt;/h2&gt;
+&lt;p&gt;Personally, I think we should believe way fewer of the effects we have published are real and generalizable. The first reason for this is that almost all animal research has focused on 
+&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3008499/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;male animals&lt;/a&gt;.  However, when we leave females out we are restricting our sampling to one half of the animal population. Yet, we may have the audacity to claim that our effects are generalizable. Come back to me when everything replicates in female animals. Not every effect should replicate in females because there are often good reasons to expect sex differences, due to different behaviours and physiology across males and females. But, we occlude ourselves from generalizable truths by omitting females from research.&lt;/p&gt;
+&lt;p&gt;Thankfully, things are changing; #SABV (sex as a biological variable) is trending. People care. The flagship journals are publishing papers 
+&lt;a href=&#34;https://www.jneurosci.org/content/36/47/11817.short&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;highlighting this exact issue&lt;/a&gt;. On the other hand, some people don&amp;rsquo;t care, and will never care. But, thankfully funding agencies are implementing change from the top down.&lt;/p&gt;
+&lt;p&gt;The next reason is the animals themselves. I am a rat researcher. There are lots of different strains of rats, each with their own little quirks and peculiarities. I &lt;strong&gt;only&lt;/strong&gt; use one strain of rat in my research. Would my effects generalize from this sample of rats to a population of rats? I’ll be honest and say: I don’t know. It’s an empirical question, and I certainly hope so. But we know that for certain effects, they don’t 
+&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/32297781&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;generalize across strains&lt;/a&gt;.
+If you think not being able to generalize across strains is bad, wait until you hear about breeders! If you’re not familiar with rodent neuroscience, you either buy or breed your rats. There are companies that make a pretty penny from breeding rats and selling them to researchers at a premium. The last year and a half of my research life has been hell. Disappointment, frustration, just hell. I used to buy my rats from a breeding company in Quebec (I won&amp;rsquo;t name names&amp;hellip;). I study female sexual behaviour, which means I need a group of male studs that I can call upon to have sex with my female rats. The breeding company shut down the line of rats I used. So, I buy from the same company, but at a different location. As it turned out, around 50% of the new male rats refused to have sex.&lt;/p&gt;
+&lt;p&gt;Weird&amp;hellip;&lt;/p&gt;
+&lt;p&gt;So, then I swapped supplier… and guess what? I got some stud males.&lt;/p&gt;
+&lt;p&gt;What in the world is happening at these breeding colonies that the motivation and ability to have sex was bred out of these males? And if that’s happening for something as rudimentary as sex, what’s happening to higher cognitive abilities etc.? This personal experience, combined with studies, make me worried about the generalizability of effects 
+&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3152440/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;within a strain&lt;/a&gt; from different breeders. Adding to the above points, it looks like effects do not replicate in genetically similar animals depending on 
+&lt;a href=&#34;&#34;&gt;geographical location&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Going full circle and getting back to the Generalizability Crisis paper. The point of about the sampling of stimuli really made me think about current animal models. Yarkoni reminds us that we are sampling a set of stimuli for a large population of possible stimuli within a test. Expanding this to animal models, we often end up using one test to probe some cognitive, emotional, or behavioural capacity. Let’s use spatial memory as an example (sorry spatial memory folks, nothing personal). You design an experiment that tests the effect of lesions to some brain area on spatial memory. How do you test spatial memory? You use the Morris water maze. Okay, well you’ve tested a sample (n = 1) of the possible population of spatial memory tests. Would the effect generalize to the other tests of spatial memory? And would the same rat behave in a consistent way across the whole population of tests? This is an empirical question.&lt;/p&gt;
+&lt;p&gt;For now, we might get more realistic estimates of effects by including the tests used as random effects.&lt;/p&gt;
+&lt;p&gt;I’ve seen all the above as issues in what I do for a while now. It was only once I saw them through the lens of a generalizability crisis that I saw the commonality between them. Maybe it’s because of the Twitter bubble of people I choose to follow, but I haven’t seen the same open discussion of these issues among neuroscientists as I have among social psychologists. Unless, we address these issues we&amp;rsquo;ll end up continuing with business as usual, hoping no one tries to replicate our effects, seeing the emperor without his clothes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>There are infinite ways to have sex &amp; there’s nothing unnatural about any of them</title>
+      <link>http://localhost:1313/post/fetishes/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/fetishes/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Republished from 
+&lt;a href=&#34;https://theconversation.com/there-are-infinite-ways-to-have-sex-and-theres-nothing-unnatural-about-any-of-them-118943&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;theconversation.ca&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Humans have discovered an almost infinite amount of ways to have sex — and things to have sex with. The famous sex researcher 
+&lt;a href=&#34;https://ajph.aphapublications.org/doi/10.2105/AJPH.93.6.894&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alfred Kinsey said&lt;/a&gt;: “The only unnatural sex act is that which can’t be performed.”&lt;/p&gt;
+&lt;p&gt;From foot fetishes to the kinkiest outfit or habits, fetishes are an endless 
+&lt;a href=&#34;http://www.concordia.ca/cunews/offices/vprgs/sgs/public-scholars/2017/07/02/fetish-rainbow.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rainbow of preferences and practices&lt;/a&gt;. Although human studies on fetishes and atypical sexual interest are few, case studies and research on 
+&lt;a href=&#34;https://psycnet.apa.org/doiLanding?doi=10.1037%2Fbne0000300&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;non-human animal behaviour have revealed some insights about them and how they may develop&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In fetishism, the subject of the desire is not necessarily related to sexual intercourse, yet the fetish drives a person’s sexual arousal, fantasies and preferences. Fetishes can be part of a healthy and playful sexual life for individuals and couples, and also forms the basis of some sexual subcultures.&lt;/p&gt;
+&lt;p&gt;Unfortunately, fetishes have often wrongly been associated with sexual deviancy, making it easy to feel weird or shame about them. Many of us are quick to judge things we do not understand or experience. When it comes to sex, we can believe that things we don’t do are weird, wrong or even disgusting.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://images.theconversation.com/files/280103/original/file-20190618-118514-4rfytu.jpg?ixlib=rb-1.1.0&amp;amp;q=45&amp;amp;auto=format&amp;amp;w=754&amp;amp;h=1042&amp;amp;fit=crop&amp;amp;dpr=1.jpg&#34; alt=&#34;&#34;&gt;
+&lt;em&gt;Photo by Shibari Kinbaku from Pixabay&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The Pride marches taking place this summer began as a social movement against repressive and discriminatory practices against LGBTQ people following the Stonewall riots in New York City in 1969. Fifty years later, Pride month has become a commemoration and celebration of sexual minorities and diversity.&lt;/p&gt;
+&lt;p&gt;Let’s take a look under the covers together to paint a more positive view of these so-called “perversions.” We all may have a kink or two. So why not feel more accepting of our more obscure sexual desires?&lt;/p&gt;
+&lt;p&gt;What are fetishes?
+Fetishes are not just about whips and leather, but part of a natural curiosity to explore the unknown territories of our sexuality.&lt;/p&gt;
+&lt;p&gt;A lot of the early science claimed fetishes were sexual abnormalities or perversions. However, most researchers and clinical practitioners now only consider fetishes to be harmful if they 
+&lt;a href=&#34;https://doi.org/10.1007/s10508-009-9558-7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cause distress, physical harm or transgress consent&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Scientists have recently begun to understand how some fetishes develop. 
+&lt;a href=&#34;https://escholarship.org/uc/item/1wc177zt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Several animal studies and case reports&lt;/a&gt; on humans suggest that early imprinting and Pavlovian or classical conditioning can shape the formation of fetishes. We believe learning from experiences plays a large role in forming fetishes.&lt;/p&gt;
+&lt;p&gt;From a Pavlovian conditioning perspective, fetishes are seen as the product of associating early and 
+&lt;a href=&#34;https://psycnet.apa.org/doiLanding?doi=10.1037%2Fbne0000300&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rewarding sexual experiences with objects&lt;/a&gt;, actions or body parts that are not necessarily sexual. This is perhaps why different people have different fetishes.&lt;/p&gt;
+&lt;p&gt;As for early imprinting, the best example comes from a study in which 
+&lt;a href=&#34;https://www.nature.com/articles/26129&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;newborn goats and sheep were cross-fostered by a mother of another species&lt;/a&gt;. Goats were mothered by sheep, and the sheep mothered by goats. The results showed male goats and sheep had sexual preferences for females of the opposite species, meaning the same species as their adopting mothers, while females on the other hand were more fluid in their choices and were willing to have sex with males of both species.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://images.unsplash.com/photo-1550697851-920b181d8ca8?ixlib=rb-1.2.1&amp;amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;w=750&amp;amp;q=80&#34; alt=&#34;&#34;&gt;
+&lt;em&gt;Photo by vaun0815 on Unsplash.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This study shines some light on sex differences in human fetishes, as men with fetishes tend to vastly outnumber women with fetishes.&lt;/p&gt;
+&lt;p&gt;These sex differences appear to be explained solely by 
+&lt;a href=&#34;https://journals.sagepub.com/doi/10.1177/1079063214525645&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;differences in sexual urges&lt;/a&gt;, where men tend to show higher arousal or less repulsion towards various “deviant” sexual acts than women do. This, nevertheless, does not imply men have more psychological disorders.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fetish-related disorders&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Fetishes, just like any other thing in life, can be taken to where it may be a little “too much.” They may not only be preferred, but also needed in the expression of sexual arousal, which can impair the preferred pattern of arousal or performance.&lt;/p&gt;
+&lt;p&gt;Fetish-related disorders are characterized by the expression of 
+&lt;a href=&#34;https://link.springer.com/article/10.1007%2Fs10508-009-9558-7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;two main criteria&lt;/a&gt;: recurrent and intense sexual arousal from either the use of objects or highly specific body part(s) that are not genitalia manifested by fantasies, urges or behaviours; those which can cause great distress or impairment of their intimacy, social or occupational life.&lt;/p&gt;
+&lt;p&gt;Some are particularly troubling, like exhibitionism or frotteurism. These paraphilias are believed to be distortions of normal sexual interactions with others. Sadly, both of them still 
+&lt;a href=&#34;https://journals.sagepub.com/doi/10.1177/1079063214525643&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;remain poorly understood&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;As previously mentioned, if by some reason we can establish associations that can drive our arousal through learning experiences, research has also shown that these associations can be “erased.” However, this process can be quite slow, difficult to change and susceptible of being spontaneously triggered by familiar cues.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;No definition of normal&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Fetishes have the potential of enhancing or expanding the repertoire of sensations we experience during sex. In fact, experimental data shows that 
+&lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S0031938413002539?via%3Dihub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;animals become more sexually aroused when they learn to associate sex with fetish-like cues&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Instead of focusing on what you should like or what should get you off or not, you’re better off wondering how that thing suits you or your partner. Normality falls within blurry lines, and it is up to you to expand its limits or not.&lt;/p&gt;
+&lt;p&gt;There is no exact definition of what constitutes 
+&lt;a href=&#34;https://doi.org/10.1136/bmj.318.7184.654&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;normal or healthy&lt;/a&gt;. These definitions are highly dependent of the context (historical time and culture).&lt;/p&gt;
+&lt;p&gt;We get caught up with what appears to be more frequent, healthy, natural or normal: but what about what feels right?&lt;/p&gt;
+&lt;p&gt;So how do you know if you have a fetish? If there is consent and respect, it really doesn’t matter what you do between the bed sheets, on the kitchen table or on that secret hidden spot.&lt;/p&gt;
+&lt;p&gt;Perhaps you don’t have a fetish. But it’s never too late to try.&lt;/p&gt;
+&lt;p&gt;As North Americans celebrate Pride this summer, we should take it as a reminder of our colourful sexual diversity —and also the infinite ways to have sex, with nothing unnatural about any of them.&lt;/p&gt;
+&lt;p&gt;We believe all people should be allowed to express their sexuality and embrace it without the weight of stereotypes or “normal” standards to live by. Life is too short to not make the best out of it, especially when it comes to enjoy the pleasures of the flesh.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The orgasm gap and what sex-ed did not teach you</title>
+      <link>http://localhost:1313/post/orgasm_gap/</link>
+      <pubDate>Tue, 20 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/orgasm_gap/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Reposted from 
+&lt;a href=&#34;https://theconversation.com/the-orgasm-gap-and-what-sex-ed-did-not-teach-you-92237&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;theconversation.ca&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;There is a clear disparity between men and women when it comes to achieving orgasm; a phenomenon scientists call the orgasm gap.&lt;/p&gt;
+&lt;p&gt;Studying orgasms is no easy task. We work as psychology of sexual behaviour researchers in the lab of Dr. James Pfaus at Concordia University and were interested to explore the 
+&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/27791968&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;“controversy”&lt;/a&gt; of clitoral versus vaginal orgasms.&lt;/p&gt;
+&lt;p&gt;We conducted a literature review on the current state of the evidence and different perspectives on how this phenomenon occurs in women. Particularly, the nature of a woman’s orgasm has been a source of scientific, political and cultural debate for over a century. Although 
+&lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S0272735800000696?via%3Dihub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;science has an idea&lt;/a&gt; of what orgasms are, we are still quite uncertain as to how they occur.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://psycnet.apa.org/record/1966-35042-000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Orgasms&lt;/a&gt; are one of the few phenomena that occur as a result of a highly complex interaction of several physiological and psychological systems all at once. While there may be evolutionary reasons why 
+&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5087694/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;men&lt;/a&gt; are more likely to orgasm during sex, we shouldn’t doom ourselves to this idea. Indeed, part of the problem lies in what happens in the bedroom.&lt;/p&gt;
+&lt;p&gt;We all have different preferences when it comes to what we like in bed. But one commonality we share is that we know when we orgasm and when we do not. We don’t always orgasm every time we have sex, and that can be just fine, because we may have sex for many different reasons. However, studies repeatedly show that women reach climax less often than men do during sexual encounters together.&lt;/p&gt;
+&lt;p&gt;For example, a national survey conducted in the United States showed that 
+&lt;a href=&#34;https://books.google.ca/books/about/The_Social_Organization_of_Sexuality.html?id=72AHO0rE2HoC&amp;amp;hl=en&amp;amp;redir_esc=y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;women reported one orgasm for every three from men&lt;/a&gt;. Heterosexual males said they achieved orgasm usually or always during sexual intimacy, 95 per cent of the time.&lt;/p&gt;
+&lt;p&gt;The gap appears to become narrower among homosexual and bisexual people, where 89 per cent of gay males, 88 per cent bisexual males, 86 per cent lesbian women, and 66 per cent of bisexual women orgasm during sexual interactions.&lt;/p&gt;
+&lt;p&gt;When we take a closer look at what might explain the orgasm gap, we can see the type of relationship we have with our partner matters. If you are in an established committed relationship, 
+&lt;a href=&#34;https://journals.sagepub.com/doi/full/10.1177/0003122412445802&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the gap tends to close&lt;/a&gt;, but it widens during casual sex.&lt;/p&gt;
+&lt;p&gt;That is, 
+&lt;a href=&#34;https://journals.sagepub.com/doi/full/10.1177/0003122412445802&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;women in a committed relationship&lt;/a&gt; report reaching an orgasm as often as 86 per cent of the time, whereas women in casual sex encounters report they orgasm only 39 per cent of the time. Furthermore, heterosexual women achieve orgasm easily and regularly through masturbation.&lt;/p&gt;
+&lt;p&gt;Likewise, the more knowledge about the female genitalia (especially about the clitoris) the partner has, the higher the likelihood is for women to orgasm more frequently. Finally, and most importantly, the respondents reported the most reliable practice to achieve an orgasm for women is oral sex.&lt;/p&gt;
+&lt;p&gt;We don’t know why this gap occurs in casual sex versus sex in a committed relationship, but part of it might be how we communicate what we want sexually, what we expect sexually and attitudes toward sexual pleasure.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What sex-ed did not teach you&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Formal education teaches us a vast amount of relevant topics in school, yet sexual education has been and is still a matter of (moral) debate. For many of us, sexual education covered reproductive biology and how not to get pregnant or contract sexually transmitted infections.&lt;/p&gt;
+&lt;p&gt;Sex-ed has 
+&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC198355/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;been focused&lt;/a&gt; on preventing kids from having sex. “Always use condoms” was sometimes the most progressive sex-ed message. Education is now progressing into teaching what sex is about and how to engage in ethical and respectful sex, but that is still not the whole picture. 
+&lt;a href=&#34;https://theconversation.com/fun-sex-is-healthy-sex-why-isnt-that-on-the-curriculum-81020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How about pleasure or how to have fun&lt;/a&gt; and to explore what we like, how to communicate to our partners and many other crucial aspects of intimate life?&lt;/p&gt;
+&lt;p&gt;The key to the ultimate goal of enjoying ourselves is to know what you and your partner want and how to satisfy each other. Consequently, incomplete and biased sex education fails both men and women, omitting the fact sex is not only for reproduction but also for enjoyment.&lt;/p&gt;
+&lt;p&gt;Maybe the first thing we should learn about sex is that it is one of the favourite pastimes of adults. Preventing it from happening will only increase the likelihood of future generations engaging in it more, only with less knowledge about to how get the most out of it.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Some advice for sexual partners&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Our first reaction to the orgasm gap may be to point fingers and find someone to blame: Cultural attitudes, religion, society, the educational system, your ex. Certainly, anyone would agree that the gap is a multifactorial phenomenon.&lt;/p&gt;
+&lt;p&gt;Statistics do not count when it comes to your own intimacy. In bed, it’s you and your partner(s), and that is what matters. We cannot create nor do we trigger orgasms in our partners. We can only help to make them easier, more fun and more enjoyable for them.&lt;/p&gt;
+&lt;p&gt;Even if you may have a good idea of what your partner may want in bed, what people like varies a great deal. Thus, understanding what a partner wants, 
+&lt;a href=&#34;https://www.ted.com/talks/peggy_orenstein_what_young_women_believe_about_their_own_sexual_pleasure&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;how, when, where, or for how long, requires openness, trust and, most importantly, communication&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;These key ingredients may be what’s missing in both casual and long-term encounters. We could all be more open and humble, and acknowledge that with a good attitude and a good teacher, everyone gets better at it.&lt;/p&gt;
+&lt;p&gt;Your sexual prowess and ability to satisfy grows with practice; it goes without saying that our sexual lives should improve beyond previous negative experiences.&lt;/p&gt;
+&lt;p&gt;There may be very few things in this world that perhaps all people in this world enjoy, and orgasms are among them. But the enjoyment of sex is not the race to climb to the top of the mountain. Instead, it is the enjoyment of getting there.&lt;/p&gt;
+&lt;p&gt;So what can you do? Talk, be confident and pay attention to your partner.&lt;/p&gt;
+&lt;p&gt;Satisfaction means very different things for different people. What really matters is what you and your partner(s) want. Shattering the climax glass ceiling is a team effort. Sex is fun — and everyone has something to learn about it.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

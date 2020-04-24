@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neuroscience | Conall Mac Cionnaith</title>
+    <link>http://localhost:1313/categories/neuroscience/</link>
+      <atom:link href="http://localhost:1313/categories/neuroscience/index.xml" rel="self" type="application/rss+xml" />
+    <description>Neuroscience</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©</copyright><lastBuildDate>Wed, 22 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/img/themes/academic/assets/images/icon.png</url>
+      <title>Neuroscience</title>
+      <link>http://localhost:1313/categories/neuroscience/</link>
+    </image>
+    
+    <item>
+      <title>The generalizability crisis goes pandemic.</title>
+      <link>http://localhost:1313/post/generalizability_in_neuro/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/generalizability_in_neuro/</guid>
+      <description>&lt;p&gt;I’ve learned way more about rigorous methodology and good research practices from social psychologists than I have from neuroscientists. And, that&amp;rsquo;s coming from someone who&amp;rsquo;s spent their whole graduate career in a neurobiology department. Why? What are social psychologists doing that we are not?&lt;/p&gt;
+&lt;p&gt;Social psychologists are willing to admit when they have problems. First the replication crisis, fueled by 
+&lt;a href=&#34;https://journals.sagepub.com/doi/full/10.1177/0956797611430953?casa_token=BR6ZgX-7jqAAAAAA%3AjaveqjINQrurLDjUJbIbt9CGwkI_wTD54qG5TBXCmKIpDWzchP3bP1w-f0M93_6USPwP8YXd6M5ZqQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;questionable (even nefarious) research practices&lt;/a&gt; hit them. Textbook effects either disappeared or shriveled away to nothing, once the field rolled out some large scale 
+&lt;a href=&#34;https://science.sciencemag.org/content/349/6251/aac4716?casa_token=Gqed9LzVad8AAAAA:F3YfdI9B5sBhhVx4229xKceAInQtoNwUz7bcs2WBEqrUrGaQQkQCU0IsaZ-Wxaq7i62b_gwkiywEJ4A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;replication projects&lt;/a&gt;. Goodbye 
+&lt;a href=&#34;https://fourbeers.fireside.fm/31&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ego depletion&lt;/a&gt;. Goodbye 
+&lt;a href=&#34;https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0029081&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;priming&lt;/a&gt;. The upshot to finding out effects didn’t replicate is that a large collaborative correction to these textbook effects (or lack thereof) has been made. But, the rewriting of  textbook effects has only made possible by the acknowledgement of the issues facing the field.&lt;/p&gt;
+&lt;p&gt;Not all replications are equal. Sometimes it’s not really that interesting to replicate every miniscule detail of a study. Nor would it be that insightful either. Is there any point in using the same sample size and sample demographics as a previous study? Especially, when the previous sample was underpowered and more homogenized than the milk in your fridge. We expect certain effects to conceptually replicate. The hypotheses we test are typically not overly specific, e.g., we expect to see a Cohen’s d of exactly 0.64 in a sample of white male students recruited from the business school at “insert generic university name” etc. We test less restrictive and more conceptual hypotheses. Both are useful, but it seems to me that a conceptual replication gives more verisimilitude to a theory/hypothesis.&lt;/p&gt;
+&lt;h2&gt;Can’t catch a break.&lt;/h2&gt;
+&lt;p&gt;No one likes having salt and lemon juice rubbed onto their fresh wounds. Unfortunately for social psychology, they seem to get mixed up in crisis after crisis. As the replication crisis becomes cold, the 
+&lt;a href=&#34;https://psyarxiv.com/jqw35&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;generalizability crisis&lt;/a&gt; has just been put on the stove to start heating up. The Yarkoni Generalizability Crisis paper got a metric shit tonne of attention among psychologists on Twitter.&lt;/p&gt;
+&lt;p&gt;It also did the rounds on the big psychology related podcasts - 
+&lt;a href=&#34;https://verybadwizards.fireside.fm/182&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Very Bad Wizards&lt;/a&gt; and 
+&lt;a href=&#34;https://fourbeers.fireside.fm/38&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Two Psychologists Four Beers&lt;/a&gt;. Despite a quick read through the paper, I got absolutely no podcast invitations. I have to admit at this point that some of the points made in the paper go above my head. But let’s distil some (but definitely not all, this is a meaty paper) of the points down because they are important:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Effects should generalize across stimuli. For example, a Stroop effect should be consistent regardless of the font colour used.&lt;/li&gt;
+&lt;li&gt;Experimental designs use a sample of stimuli out of a population of possible stimuli. And, barely anyone has given a shit about this before this paper.&lt;/li&gt;
+&lt;li&gt;Just like we treat subjects/participants as a sample of a large population, we should do the same with stimuli. This means reporting the N of stimuli, and treating stimuli as a random effect, just like we do with participants.&lt;/li&gt;
+&lt;li&gt;Effect sizes shrivel and the intervals grow when stimuli are incorporated as a random effect.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Agree or disagree with the points made in the paper. What I like is that people are wiling to have a productive discussion about these kind of issues in science. See the Twitter thread.&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;I wrote this paper arguing that the inferential statistics we report in psychology papers are so disconnected from the hypotheses they&amp;#39;re meant to test that they may as well be made up. feedback is appreciated.&lt;a href=&#34;https://t.co/BIJ8weUMOl&#34;&gt;https://t.co/BIJ8weUMOl&lt;/a&gt;&lt;/p&gt;&amp;mdash; 🍧🍨🍦Tal Yarkoni 🍦🍨🍧 (@talyarkoni) &lt;a href=&#34;https://twitter.com/talyarkoni/status/1197682895198072835?ref_src=twsrc%5Etfw&#34;&gt;November 22, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;These papers and responses are important metascience discussions for the field. But really there is absolutely &lt;strong&gt;no reason they don’t generalize to neuroscience&lt;/strong&gt;. We want to know what effects are actually true and what aren’t. Our incentives in that regard are completely aligned.&lt;/p&gt;
+&lt;h2&gt;Ringing in the neuropocalypse?&lt;/h2&gt;
+&lt;p&gt;So far neuroscience hasn’t plunged into crisis. Is it because we’re better scientists than psychologists? &lt;strong&gt;No&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Although, some might think so
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Tell us what you really think! &lt;a href=&#34;https://t.co/A5D4SiLI8d&#34;&gt;https://t.co/A5D4SiLI8d&lt;/a&gt;&lt;/p&gt;&amp;mdash; Michael Inzlicht (@minzlicht) &lt;a href=&#34;https://twitter.com/minzlicht/status/1244961169489768449?ref_src=twsrc%5Etfw&#34;&gt;March 31, 2020&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;/p&gt;
+&lt;p&gt;Is it because our effects are more “real” because they are “in the brain” (whatever on earth this kind of vacuous statement means)? &lt;strong&gt;Absolutely not&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;There’s no reason to belief that questionable research practices and p-hacking are less frequent in neuroscience than psychology. There’s also no reason to believe our experimental design is stronger in neuroscience than in psychology. We might use cooler methods like lasers, drugs, and viruses. But we are prone to the exact same errors as other fields. We’re just as good at running 
+&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/23571845&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;underpowered studies&lt;/a&gt; as anyone else.&lt;/p&gt;
+&lt;p&gt;Part of the answer seems simple:
+&lt;strong&gt;You can’t find things if you don’t look&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Neuroscience, especially animal research, is expensive. No one is paying out big grants to run large scale replication projects. Whether they do or do not replicate is an empirical question. But considering the incentive structures in neuroscience and psychology have been very similar over time (i.e., positive publication bias, lack of interest in publishing replications, disinterest in publishing the negative replication of an important effect), I don’t see why we would be in a different boat to social psychology.&lt;/p&gt;
+&lt;p&gt;I think it is more common than we are willing to publicly admit that highly-cited effects do not replicate. Walking around poster sessions, I&amp;rsquo;ve heard it mentioned that certain effects only replicate for certain labs. But, we never officially hear about the non-replications, just background whispers at conferences. How much resources should a lab piss away chasing the mirage of replicating X lab&amp;rsquo;s effect, when everyone who&amp;rsquo;s tried has never gotten it to work?&lt;/p&gt;
+&lt;h2&gt;Should we declare a crisis?&lt;/h2&gt;
+&lt;p&gt;Personally, I think we should believe way fewer of the effects we have published are real and generalizable. The first reason for this is that almost all animal research has focused on 
+&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3008499/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;male animals&lt;/a&gt;.  However, when we leave females out we are restricting our sampling to one half of the animal population. Yet, we may have the audacity to claim that our effects are generalizable. Come back to me when everything replicates in female animals. Not every effect should replicate in females because there are often good reasons to expect sex differences, due to different behaviours and physiology across males and females. But, we occlude ourselves from generalizable truths by omitting females from research.&lt;/p&gt;
+&lt;p&gt;Thankfully, things are changing; #SABV (sex as a biological variable) is trending. People care. The flagship journals are publishing papers 
+&lt;a href=&#34;https://www.jneurosci.org/content/36/47/11817.short&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;highlighting this exact issue&lt;/a&gt;. On the other hand, some people don&amp;rsquo;t care, and will never care. But, thankfully funding agencies are implementing change from the top down.&lt;/p&gt;
+&lt;p&gt;The next reason is the animals themselves. I am a rat researcher. There are lots of different strains of rats, each with their own little quirks and peculiarities. I &lt;strong&gt;only&lt;/strong&gt; use one strain of rat in my research. Would my effects generalize from this sample of rats to a population of rats? I’ll be honest and say: I don’t know. It’s an empirical question, and I certainly hope so. But we know that for certain effects, they don’t 
+&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/32297781&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;generalize across strains&lt;/a&gt;.
+If you think not being able to generalize across strains is bad, wait until you hear about breeders! If you’re not familiar with rodent neuroscience, you either buy or breed your rats. There are companies that make a pretty penny from breeding rats and selling them to researchers at a premium. The last year and a half of my research life has been hell. Disappointment, frustration, just hell. I used to buy my rats from a breeding company in Quebec (I won&amp;rsquo;t name names&amp;hellip;). I study female sexual behaviour, which means I need a group of male studs that I can call upon to have sex with my female rats. The breeding company shut down the line of rats I used. So, I buy from the same company, but at a different location. As it turned out, around 50% of the new male rats refused to have sex.&lt;/p&gt;
+&lt;p&gt;Weird&amp;hellip;&lt;/p&gt;
+&lt;p&gt;So, then I swapped supplier… and guess what? I got some stud males.&lt;/p&gt;
+&lt;p&gt;What in the world is happening at these breeding colonies that the motivation and ability to have sex was bred out of these males? And if that’s happening for something as rudimentary as sex, what’s happening to higher cognitive abilities etc.? This personal experience, combined with studies, make me worried about the generalizability of effects 
+&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3152440/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;within a strain&lt;/a&gt; from different breeders. Adding to the above points, it looks like effects do not replicate in genetically similar animals depending on 
+&lt;a href=&#34;&#34;&gt;geographical location&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Going full circle and getting back to the Generalizability Crisis paper. The point of about the sampling of stimuli really made me think about current animal models. Yarkoni reminds us that we are sampling a set of stimuli for a large population of possible stimuli within a test. Expanding this to animal models, we often end up using one test to probe some cognitive, emotional, or behavioural capacity. Let’s use spatial memory as an example (sorry spatial memory folks, nothing personal). You design an experiment that tests the effect of lesions to some brain area on spatial memory. How do you test spatial memory? You use the Morris water maze. Okay, well you’ve tested a sample (n = 1) of the possible population of spatial memory tests. Would the effect generalize to the other tests of spatial memory? And would the same rat behave in a consistent way across the whole population of tests? This is an empirical question.&lt;/p&gt;
+&lt;p&gt;For now, we might get more realistic estimates of effects by including the tests used as random effects.&lt;/p&gt;
+&lt;p&gt;I’ve seen all the above as issues in what I do for a while now. It was only once I saw them through the lens of a generalizability crisis that I saw the commonality between them. Maybe it’s because of the Twitter bubble of people I choose to follow, but I haven’t seen the same open discussion of these issues among neuroscientists as I have among social psychologists. Unless, we address these issues we&amp;rsquo;ll end up continuing with business as usual, hoping no one tries to replicate our effects, seeing the emperor without his clothes.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
